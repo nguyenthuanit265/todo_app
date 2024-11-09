@@ -3,6 +3,25 @@
 A feature-rich TODO list application built with Flutter that helps users manage their tasks efficiently with time-based
 reminders and different viewing categories.
 
+### Creat task
+
+![create task.png](resources/createtask.png)
+
+### All task
+
+![all task.png](resources/alltask.png)
+
+### Today task
+
+![today task.png](resources/todaytask.png)
+
+### Upcoming task
+
+![unaccommodating.png](resources/upcommingtask.png)
+
+### Delete task
+![delete task.png](resources/deletetask.png)
+
 ## Features
 
 - ✅ Create TODOs with customizable time settings
